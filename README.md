@@ -24,3 +24,6 @@ The Excel sheet helps us to create a simple Neural Network The Neural Network Ar
 
 
 ![Loss with Epochs for Learning Rate = 1 0](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/8da15ff2-c39f-459d-a529-0ee0da0dd438)
+
+
+![Loss with Epochs for Learning Rate = 2 0](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/1b88d81f-1613-4e7e-bf83-c7e82e4b4643)
