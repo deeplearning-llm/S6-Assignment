@@ -9,3 +9,18 @@ The Excel sheet helps us to create a simple Neural Network The Neural Network Ar
 - We see that with increase in learning rate from [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] , The loss function converging with fewer number of epochs
 
 
+
+
+![Loss with Epochs for Learning Rate = 0 1     (1)](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/eac3f8c1-a92f-46cf-a6c6-277960ac899d)
+
+
+![Loss with Epochs for Learning Rate = 0 2  ](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/b4892101-5360-49b9-9570-4de5e19de7da)
+
+
+![Loss with Epochs for Learning Rate = 0 5  ](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/2b45fee6-c173-46c7-b5c1-36fc16d13835)
+
+
+![Loss with Epochs for Learning Rate = 0 8 ](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/32a56514-b73f-469b-8b6f-8284f10459c6)
+
+
+![Loss with Epochs for Learning Rate = 1 0](https://github.com/deeplearning-llm/S6-Assignment/assets/135349271/8da15ff2-c39f-459d-a529-0ee0da0dd438)
